@@ -1,2 +1,2 @@
 # SantanderBootcampDados.DIO
-projetos de coencia de Dados utilizando Linguagem Python
+projetos de ciência de Dados utilizando Linguagem Python
